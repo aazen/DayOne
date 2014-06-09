@@ -8,4 +8,4 @@ Starts with primitive tasks
 * add a file
 * stage
 * commit
-
+* edit a file
